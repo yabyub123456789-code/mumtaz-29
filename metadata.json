@@ -1,0 +1,8 @@
+{
+  "name": "MUMTAZ 29",
+  "description": "Aplikasi manajemen sekolah modern untuk Guru, memudahkan pengelolaan mata pelajaran, kelas, siswa, nilai, absensi, dan jurnal mengajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
